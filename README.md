@@ -1,13 +1,33 @@
 # Olá! Eu sou a Ana Carolina
 
-<div align="center">
-<a href="https://github.com/carolwarzynski">
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=carolwarzynski&show_icons=true&theme=nightowl"/>
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolwarzynski&layout=compact&theme=nightowl"/>
-</a>
-</div>
+### 👩‍💻 Sobre mim
+🎓 Estudante de **Engenharia de Software**  
+💻 Foco em **Desenvolvimento Back-end** e **Cibersegurança**  
+📚 Atualmente estudando fundamentos de programação, lógica, Git & GitHub e segurança da informação
+
+### 🚀 Áreas de interesse
+- Back-end
+- APIs e lógica de servidores
+- Segurança da informação
+- Boas práticas de código
+
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=carolwarzynski&show_icons=true&theme=dracula"
+        height="160"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolwarzynski&layout=compact&theme=dracula"
+        height="160"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Carol-HTML" height="40" width="50"
@@ -36,8 +56,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
 <a href="mailto:carolwarzynski31@gmail.com">
 <img src="https://img.shields.io/badge/-Email-%23D1
 
-<div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
 
 
