@@ -42,7 +42,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-##
 
 
 <div align="center">
@@ -54,8 +53,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
 </a>
 </div>
 
-<a href="mailto:carolwarzynski31@gmail.com">
-<img src="https://img.shields.io/badge/-Email-%23D1
+
 
 
 
