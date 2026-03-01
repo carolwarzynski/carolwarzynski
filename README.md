@@ -7,6 +7,7 @@
 
 ### 🚀 Áreas de interesse
 - Back-end
+- front-end
 - APIs e lógica de servidores
 - Segurança da informação
 - Boas práticas de código
