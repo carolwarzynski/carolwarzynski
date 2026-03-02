@@ -1,17 +1,42 @@
-# Olá! Eu sou a Ana Carolina
+# 👩🏻‍💻 Carol Warzynski
 
-### 👩‍💻 Sobre mim
-🎓 Estudante de **Engenharia de Software**  
-💻 Foco em **Desenvolvimento Back-end** e **Cibersegurança**  
-📚 Atualmente estudando fundamentos de programação, lógica, Git & GitHub e segurança da informação
+Desenvolvedora em formação com foco em **Front-End**.
 
-### 🚀 Áreas de interesse
-- Back-end
-- front-end
-- APIs e lógica de servidores
-- Segurança da informação
-- Boas práticas de código
+Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em:
 
+- HTML
+- CSS
+- JavaScript
+- React
+
+---
+
+## 🚀 Projetos
+
+### 📌 Quiz do Programador
+Aplicação interativa utilizando JavaScript para manipulação de estado e lógica.
+
+**Tecnologias:** HTML, CSS, JavaScript
+
+---
+
+### 📌 API de Cadastro de Usuários
+API REST para gerenciamento de usuários.
+
+**Tecnologias:** Node.js, Express, Prisma
+
+---
+
+### 📌 Planner Semanal (em desenvolvimento)
+Aplicação em React com estrutura de grade semanal dinâmica.
+
+**Tecnologias:** React, JavaScript
+
+---
+
+## 🎯 Objetivo
+
+Atuar como Desenvolvedora Front-End Júnior, contribuindo com interfaces organizadas, funcionais e bem estruturadas.
 <table align="center">
   <tr>
     <td>
