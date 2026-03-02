@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Carol Warzynski
+#  Carol Warzynski
 
 Desenvolvedora em formação com foco em **Front-End**.
 
