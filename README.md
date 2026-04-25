@@ -1,6 +1,6 @@
 #  Carol Warzynski
 
-Desenvolvedora em formação com foco em **Front-End**.
+Desenvolvedora em formação com foco em **full stack**.
 
 Atualmente desenvolvendo projetos práticos para consolidar conhecimentos em:
 
@@ -36,7 +36,7 @@ Aplicação em React com estrutura de grade semanal dinâmica.
 
 ## 🎯 Objetivo
 
-Atuar como Desenvolvedora Front-End Júnior, contribuindo com interfaces organizadas, funcionais e bem estruturadas.
+Atuar como Desenvolvedora full stack Júnior, contribuindo com interfaces organizadas, funcionais e bem estruturadas.
 <table align="center">
   <tr>
     <td>
